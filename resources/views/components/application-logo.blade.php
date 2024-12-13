@@ -1,0 +1,1 @@
+<img src="https://success-ci.com/images/logo.jpg" alt="Logo Success">
